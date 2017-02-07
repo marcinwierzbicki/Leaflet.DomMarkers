@@ -9,7 +9,7 @@
     "url": "https://github.com/marcinwierzbicki/Leaflet.DomMarkers"
   },
   "keywords": [
-    "angularjs",
+    "angularjs"
   ],
   "license": "MIT",
   "main": "src/leaflet.dom-markers.js",
