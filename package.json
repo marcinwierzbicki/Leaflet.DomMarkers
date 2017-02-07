@@ -1,0 +1,18 @@
+{
+  "author": "https://github.com/marcinwierzbicki/Leaflet.DomMarkers/graphs/contributors",
+  "name": "leaflet-dom-markers",
+  "version": "0.0.1",
+  "description": "marcinwierzbicki/Leaflet.DomMarkers",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcinwierzbicki/Leaflet.DomMarkers"
+  },
+  "keywords": [
+    "angularjs",
+  ],
+  "license": "MIT",
+  "main": "src/leaflet.dom-markers.js",
+  "dependencies": {
+  }
+}
